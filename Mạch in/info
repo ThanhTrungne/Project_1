@@ -1,0 +1,264 @@
+{
+  "uuid": "90e01508d836b625d31b62d80c4d6c19",
+  "path": "Offline/%C4%90%E1%BB%93%20%C3%A1n%201",
+  "name": "Đồ án 1",
+  "content": "GPS neo m8n\nSim800l\nSw420\nArduino nano\nPin\nBoost",
+  "created_at": "2023-04-01 12:45:02",
+  "updated_at": "2023-06-02 21:38:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "85b0bd21cd58c1b6a403b1601805cc4e",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6218f29104354bfc9090d3db05bf5198": 1,
+        "ab684b5d05be42a69757f346b08afa72": 1,
+        "13740ebeb6b34249a1c66de86e89ee5d": 1,
+        "12455067eb33456fbfc99ede78ea4211": 1,
+        "daaaa3e42dd5465180f0185e96a9fca0": 1,
+        "9aa8018c445e429e9697b8c0ad77d1af": 1,
+        "1053bcee1fd7465ab9cb2d1020e6614b": 1,
+        "b7adf400643b4936be8b786704d0e70f": 1,
+        "a6132647021348a4913bba28b1652910": 1,
+        "d431f0d7897b4e63a2ebb330a67660dc": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 3,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "798ebdf3718441049b445bec3f0337fe": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "SW420",
+          1,
+          "SW420",
+          "1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "b320f1d4668b464ba655ad8017c8cc1e",
+            "uuid": "daaaa3e42dd5465180f0185e96a9fca0"
+          }
+        ],
+        [
+          "1000uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C494544",
+            "BOM_Manufacturer": "KNSCHA(科尼盛)",
+            "BOM_Manufacturer Part": "SHW1000UF6.3V6.3X11",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "a6132647021348a4913bba28b1652910"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "TACT PUSH BUTTON MICRO SWITCH 6X6 4PIN",
+          "KEY1",
+          {
+            "BOM_Supplier Part": "C118141",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "K2-1107ST-A4SW-06",
+            "puuid": "d8d1e2a12262404aa63f0c7b7140146a",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "Led_state",
+          1,
+          "LED-TH_BD5.0-P2.54-FD_C9900023552",
+          "LED1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900023552",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "LED_5MM",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "40e3305255ad4a04b83035c540e796e7",
+            "uuid": "d431f0d7897b4e63a2ebb330a67660dc"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-12MM-NS-KIT",
+          "SG1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "30870facf4094a2f93541458d19e9668",
+            "uuid": "9aa8018c445e429e9697b8c0ad77d1af"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "COMM-TH_ARDUINO_NANO",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900017879",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "ARDUINO_NANO",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ff6e2030776d4574a7594ce501bb86c5",
+            "uuid": "b7adf400643b4936be8b786704d0e70f"
+          }
+        ],
+        [
+          "GPS NEO-M8N",
+          1,
+          "NEO-M8N",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7dec98df68a84f9482db19cebdb3caaa",
+            "uuid": "6218f29104354bfc9090d3db05bf5198"
+          }
+        ],
+        [
+          "SIM800L",
+          1,
+          "KICAD DOCUMENTS_LIBRARIES_SIM800.PRETTY_SIM800L",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "7817592db4a24375a510222f47aedae5",
+            "uuid": "ab684b5d05be42a69757f346b08afa72"
+          }
+        ],
+        [
+          "MT3608",
+          1,
+          "MT3608_M",
+          "U4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "5093481dbe8a4bad84726e16a0e5f909",
+            "uuid": "13740ebeb6b34249a1c66de86e89ee5d"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056 MODULE LITHIUM BATTERY CHARGING MODULE",
+          "U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "26d258137d0e4eccb7184473d3c68765",
+            "uuid": "12455067eb33456fbfc99ede78ea4211"
+          }
+        ],
+        [
+          "DOMINO-2",
+          1,
+          "DOMINO-2",
+          "U6",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a74b27f92ac84035b4d26d637a14e601",
+            "uuid": "798ebdf3718441049b445bec3f0337fe"
+          }
+        ],
+        [
+          "Battery Display",
+          1,
+          "PINHEADER-2PIN-2.50",
+          "U7",
+          {
+            "BOM_Manufacturer Part": "540-563",
+            "BOM_Supplier Part": "540-563",
+            "BOM_Supplier": "GME",
+            "puuid": "353624c32f164112aaf1eb481357477a",
+            "uuid": "1053bcee1fd7465ab9cb2d1020e6614b"
+          }
+        ]
+      ],
+      "updateTime": 1685716704,
+      "createTime": 1680327903,
+      "histories": [],
+      "created_at": "2023-04-01 12:45:03",
+      "updated_at": "2023-06-02 21:38:24"
+    },
+    {
+      "uuid": "4e7166c6620965867d24ef47ade7be8e",
+      "puuid": "90e01508d836b625d31b62d80c4d6c19",
+      "title": "PCB_Đồ án 1",
+      "filename": "PCB_Đồ án 1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "353624c32f164112aaf1eb481357477a": 1,
+        "a74b27f92ac84035b4d26d637a14e601": 1,
+        "26d258137d0e4eccb7184473d3c68765": 1,
+        "5093481dbe8a4bad84726e16a0e5f909": 1,
+        "7817592db4a24375a510222f47aedae5": 1,
+        "7dec98df68a84f9482db19cebdb3caaa": 1,
+        "ff6e2030776d4574a7594ce501bb86c5": 1,
+        "30870facf4094a2f93541458d19e9668": 1,
+        "398691f1f785460098bbe5ee6590333c": 3,
+        "40e3305255ad4a04b83035c540e796e7": 1,
+        "d8d1e2a12262404aa63f0c7b7140146a": 1,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1,
+        "b320f1d4668b464ba655ad8017c8cc1e": 1
+      },
+      "BOM": [],
+      "updateTime": 1683791563,
+      "createTime": 1680404830,
+      "histories": [],
+      "created_at": "2023-04-02 10:07:10",
+      "updated_at": "2023-05-11 14:52:43"
+    }
+  ],
+  "sort": [],
+  "title": "Đồ án 1",
+  "foldername": "Đồ án 1",
+  "schfilename": "Đồ án 1.json",
+  "schfilemtime": 1685716704705
+}
