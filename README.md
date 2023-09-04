@@ -1,2 +1,2 @@
 # Project_1
-DESIGN AN ANTI-THEFT SYSTEM USING VIBRATION SENSORS AND GPS LOCATION
+Thiết kế hệ thống cảnh báo cho người dùng khi có ngoại lực tác động vào phương tiện của người dùng và đồng thời xác định chính xác vị trí của phương tiện giao thông khi đang di chuyển, giúp người dùng dễ dàng kiểm soát vị trí hiện tại của phương tiện thông qua Google Map. Ngoài ra có thể cài đặt chế độ chống trộm của phương tiện qua thiết bị di dộng thông qua tin nhắn SMS nhờ hệ thống mạng di động GSM/GPRS.
